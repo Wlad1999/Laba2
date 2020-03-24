@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laba2</string>
+    <string name="button1">Неявное</string>
+    <string name="button">Неявное</string>
+    <string name="button3">Будем Угадывать</string>
+    <string name="name">Number</string>
+    <string name="button4">Save</string>
+    <string name="textview2">I say you your favorite number</string>
+    <string name="todo">TODO</string>
+</resources>
